@@ -1,0 +1,30 @@
+<!--Para este ejercicio deberéis introducir una imagen y darle además de un texto alternativo.
+ 
+Aparte, añadiréis un audio y un vídeo a vuestra elección, deben tener algunos de los atributos vistos en las sesiones u otros 
+que os parezcan interesantes.-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <picture>
+
+      <img src="perrito.jpg" alt="Imagen de un perro"/>
+    
+    </picture>
+
+    <p></p>
+    
+    <audio src="cinematic-fairy-tale-story-main-8697.mp3" loop controls preload="none"></audio>
+
+    <p></p>
+
+    <video src="Matrix - 47802.mp4" autoplay muted loop width="560" height="315"></video>
+
+</body>
+</html>
